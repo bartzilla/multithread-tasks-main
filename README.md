@@ -1,4 +1,9 @@
 # 🚀 MultithreadTasks
+[![Java 11](https://img.shields.io/badge/Java-11-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot 2.2.5](https://img.shields.io/badge/Spring%20Boot-2.2.5-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Maven](https://img.shields.io/badge/Build-Maven-3b82f6?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![REST API](https://img.shields.io/badge/API-REST-009688)](#-api-quick-reference)
+[![Multithreaded Tasks](https://img.shields.io/badge/Concurrency-Multithreaded%20Tasks-1E88E5)](#-what-this-app-does)
 
 A Spring Boot backend that explores how multithreading works in Java. It creates multithread tasks that execute in parallel to illustrate asynchronous execution.
 
