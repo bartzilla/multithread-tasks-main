@@ -1,6 +1,9 @@
 # 🚀 MultithreadTasks
 
-A Spring Boot backend that demonstrates multithread orchestration, asynchronous execution, progress tracking, cancellation, file generation, and scheduled cleanup.
+A Spring Boot backend that explores how multithreading works in Java. It creates multithread tasks that execute in parallel to illustrate asynchronous execution.
+
+Users can execute parallel tasks of different types, track their progress, chceck their status, cancel them, schedule cleanup of legacy tasks.
+
 
 ## ✨ What This App Does
 
